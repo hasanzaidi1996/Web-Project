@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+  html,body{
+     font-family: 'Numans', sans-serif;
+    }
+
+
+
+.price {
+  display: flex;
+  padding: 0.5rem;
+  border: 1px rgba(37, 35, 35, 0.377) solid;
+  border-radius: 1px;
+  gap: 1rem;
+  border-radius: 5px;
+}
+.price input {
+  border: none;
+  width: 100%;
+  outline: none;
+}
+.row img {
+  width: 100%;
+  border: 1px solid black;
+  margin-bottom: 8px;
+}
+.image-upload>input {
+  display: none;
+}
+.pic:hover
+{
+ cursor: pointer;
+}
+.login_btn {
+  color: black;
+  border: 1px blacks solid;
+  background-color: #636ecf;
+  width: 100px;
+}
+
+.login_btn:hover {
+  color: black;
+  transform: scale(1.05);
+  background-color: rgb(196, 60, 60);
+}
+
+.displaynum {
+  display: flex;
+}
+.row img:hover {
+  transform: scale(1.05);
+}
+
+/* 
+.container {
+  height: 100%;
+  align-content: center;
+  border: 1px black solid;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+} */
+
+/* #container2
+{
+    border: none;
+    padding-top: 2rem;
+} */

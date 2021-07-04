@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+  html,body{
+     font-family: 'Numans', sans-serif;
+    }
+
+.zoom:hover {
+  transform: scale(1.1);
+}

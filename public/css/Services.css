@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+   font-family: 'Numans', sans-serif;
+   background-image: url('/images/services.jpg');
+   background-repeat: no-repeat;
+   height:fit-content;
+  }
+button
+{
+    width: 160px;;
+    align-content: center;
+}
+
+  .card
+  {
+    background-color:darkslategrey;
+    padding: 40px 0px;
+    align-items: center;
+    margin: auto;
+    border: none;
+  }
+.services
+{
+    align-items: center;
+    align-content: center;
+    margin-top:  6rem;
+}
+.row img
+{
+    border-radius:50px;
+
+}
+
+.heading{
+    background-color: rgb(194, 28, 28);
+    padding: 1rem;
+    /* align-content: center; */
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    border-radius: 5rem;
+}
+
+  .zoom:hover {
+    transform: scale(1.1);
+  }

@@ -1,0 +1,56 @@
+  
+  @import url('https://fonts.googleapis.com/css?family=Numans');
+
+  html,body{
+     font-family: 'Numans', sans-serif;
+    }
+  .login_btn {
+    color: black;
+    border: 1px blacks solid;
+    background-color: #636ecf;
+    width: 100px;
+  }
+  
+  .login_btn:hover {
+    color: black;
+    transform: scale(1.05);
+    background-color: rgb(196, 60, 60);
+  }  
+    .container {
+        height: 100%;
+        align-content: center;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    img
+    {
+        align-content: center;
+        align-items: center;
+        width: 200px;
+        margin-bottom: 2rem;
+    }
+    .team
+    {
+        align-items: center;
+        align-content: center;
+        text-align: center;
+    }
+    
+    .heading3
+    {
+        background-color: rgb(170, 39, 39);
+        padding: 1rem;
+        padding-bottom: 0.5rem;
+        border-radius: 5px;
+        width: fit-content;
+        margin: auto;
+    }
+    .heading3 h3
+    {
+        color: wheat;
+    }
+    .counter
+    {
+      text-align: right;
+    
+    }
